@@ -85,6 +85,7 @@ Consistent naming improves readability, like clear labels in a filing cabinet:
 - **Components**: Use `PascalCase` (e.g., `BlogPostCard.tsx`).
 - **Hooks**: Prefix with `use` (e.g., `useFormValidation.ts`).
 - **Constants**: Use `UPPER_SNAKE_CASE` (e.g., `API_BASE_URL`).
+- **Folders**: Use `kebab-case` (e.g., `blog-post`)
 
 **Example: Constants**:
 ```ts
