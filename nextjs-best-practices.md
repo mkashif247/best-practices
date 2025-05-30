@@ -122,7 +122,7 @@ export default function StoreProvider({ children }: { children: React.ReactNode 
   return <Provider store={store}>{children}</Provider>;
 }
 ```
-Wrap your app in `StoreProvider` in `src/app/layout.tsx`. For smaller apps, consider lighter alternatives like React Context or Zustand.
+Wrap your app in `StoreProvider` in `src/app/layout.tsx`. For smaller apps, consider lighter alternatives like React Context.
 
 ### Common Mistakes to Avoid
 
