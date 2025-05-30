@@ -137,7 +137,7 @@ Wrap your app in `StoreProvider` in `src/app/layout.tsx`. For smaller apps, cons
 - **ESLint and Prettier**: Enforce code quality and formatting.
 - **Gitflow**: Use feature branches for collaboration.
 - **Component Libraries**: Use libraries like ShadCN or Material-UI for consistent UI or Create UI components.
-- **CSS Styles**: Create css varaible for sizes, colors, fonts, and breakpoint for style consistency.
+- **CSS Styles**: Create css varaible for sizes, colors, fonts, and breakpoint for style consistency name this file as global.style.css.
 
 ## 2. Writing Pages in Next.js
 
